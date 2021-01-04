@@ -1,0 +1,131 @@
+/* Firefox custom scrollbars */
+html {
+    scrollbar-color: #066 #011;
+}
+body {
+  margin: 0;
+  background-image: linear-gradient(#000000, black);
+  font-family: Arial, Helvetica, sans-serif;
+  background-repeat: repeat;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #0098c7;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: green;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #0098c7;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+div.site {
+	background-color: rgba(107, 226, 230, 1);
+	width: 1000px;
+	box-shadow: 0px 8px 800px 0px rgba(0, 152, 199, 1);
+	margin: 0 auto;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+  }
+  
+.BPost {
+  position: absolute;
+  left: -10px;
+  width: 100px;
+  height: 120px;
+  border: 3px solid blue;
+  }
+
+.centerbig {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+.centemain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.centemain2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+.centemain3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+.date {
+    text-align: center;
+    width: 100%;
+  }
+  
+.title {
+    text-align: center;
+    width: 100%;
+  }
+
+.inner{
+ position: relative;
+    background-color:;
+    left: 48px;
+    margin-right: auto;
+     width:400px;
+    height:400px;
+	top: 65px;
+}
+  
+.headlink a{text-decoration:none}.headicon{font-size:5vw;padding-right:12px;padding-top:6px;padding-bottom:13px;text-align:center}.noline a{text-decoration:none}
+
+.headtainer{margin-top:12px;max-width:800px;border-bottom:1px solid #bbb;text-align:center}hr{border:0;border-bottom:2px dashed #bbb;margin:32px 0px}
+
+h3 {
+	background: rgba(157, 250, 246, 1);
+	}
+
+dd {
+	padding-bottom:1.5em;
+	}
+
+.sig img {
+	position: relative;
+	left: 790px;
+    display: block;
+}
